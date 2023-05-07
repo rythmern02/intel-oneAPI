@@ -5,9 +5,7 @@
 #### Team Leader Email - Rythme Nagrani
 
 ## A Brief of the Prototype:
-  The CWSN web app prototype is designed to be a user-friendly platform for children with special needs. It includes various features such as interactive learning modules, personalized study plans, and a virtual classroom environment that simulates a real-world classroom experience.
-
-The prototype uses Django as the web development framework and integrates several Intel® AI Analytics Toolkits and libraries such as OpenCV, TensorFlow, and Keras for image and speech recognition, sentiment analysis, and machine learning. Additionally, the prototype also uses the SYCL/DPC++ Libraries for parallel computing and optimization.
+Our CWSN educational web app prototype is designed to provide a fun and interactive learning experience for children with special needs. The app features a variety of games, quizzes, and videos that cater to different learning styles, and allows parents and teachers to monitor progress through a dashboard. The prototype uses Django web framework, HTML/CSS for front-end, and MySQL for database management. The app also incorporates Intel AI Analytics Toolkits and libraries such as OpenCV, Tensorflow, and DPC++ for enhancing the learning experience. Overall, our prototype aims to make education accessible and enjoyable for CWSN children.
 
 Here are the UML diagrams for the prototype:
 
